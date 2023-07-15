@@ -10,7 +10,7 @@ const Navbar = () => {
           <div className="vr"></div>
           <div className="container-fluid">
             <span className="navbar-text">
-              Search for any Pokémon that exists on the planet
+             <h1>Hello Reshu this app dev By Deepak</h1>
             </span>
           </div>
         </div>
