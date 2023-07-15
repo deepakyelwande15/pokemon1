@@ -10,7 +10,7 @@ const Navbar = () => {
           <div className="vr"></div>
           <div className="container-fluid">
             <span className="navbar-text">
-             <h1>Hello Reshu this app dev By Deepak</h1>
+             <h1>Hello Reshu this app dev By Deepak 💖😂</h1>
             </span>
           </div>
         </div>
